@@ -9,13 +9,12 @@ This project focuses on the analysis of Tata Consultancy Services (TCS) stock ma
 ## 2. Table of Contents
 
 1. [Description](#1-description)  
-2. [Installation](#3-installation)  
-3. [Usage](#4-usage)  
-4. [Steps Involved / Project Workflow](#5-steps-involved--project-workflow)  
-5. [Tech Stack / Tools Used](#6-tech-stack--tools-used)  
-6. [Project Structure](#7-project-structure)  
-7. [Results / Insights / Output](#8-results--insights--output)  
-8. [Summary / Conclusion](#9-summary--conclusion)
+2. [Installation](#3-installation)    
+3. [Steps Involved / Project Workflow](#5-steps-involved--project-workflow)  
+4. [Tech Stack / Tools Used](#6-tech-stack--tools-used)  
+5. [Project Structure](#7-project-structure)  
+6. [Results / Insights / Output](#8-results--insights--output)  
+7. [Summary / Conclusion](#9-summary--conclusion)
 
 ---
 
@@ -44,12 +43,6 @@ To run this project locally, please follow these steps:
 
 ---
 
-## 4. Usage
-
-Open and run the Jupyter Notebook to view the analysis:
-
-```bash
-jupyter notebook TCS\ stock\ market.ipynb
 
 ## 5. Steps Involved / Project Workflow
 
